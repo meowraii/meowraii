@@ -1,7 +1,8 @@
 # reading the readme (importatn)
 &emsp;&emsp;meowraii is a person who is slowly learning how to code but still relies on Claude because they are lazy and want to churn out slopware as fast as possible. meowraii is not a professional figure in software development and computing systems, but often values the creation and sharing of software and other resources that may be useful to others in niches that revolve around their interests.
 
-## fastfetch snapshot
+<details>
+<summary>fastfetch snapshot</summary>
 
 | Field | Value |
 | --- | --- |
@@ -57,6 +58,8 @@ ccccccccccccccccccccccccccccc:'.          Terminal: konsole 25.12.3
 
 </details>
 
+</details>
+
 ## prounouns:
 Sorted by preference:
 - he/him
@@ -95,9 +98,14 @@ meowraii has been associated with the following brands:
 - WeatherHDS (developer, 2022-present)
 - Haze Weather Radio, Haze Playout System (developer, 2026-present)
 
-## interests
+<details>
+<summary>interests</summary>
+
 &emsp;&emsp;meowraii is autistic and has a wide range of interests. These interests can be categorized, but categories can overlap because of how autistic meowraii is. So entries may be listed in multiple categories. The following is an assortment of meowraii's interests, sorted by category. This is not an exhaustive list, and may be updated as meowraii's interests change over time.
-### Audio and Alarms
+
+<details>
+<summary>Audio and Alarms</summary>
+
 - Weather radios and Emergency Alerting Systems (EAS, Alert Ready, Weatheradio Canada, NOAA Weather Radio, etc.)
 - Audio processing and production (e.g. FFmpeg, Audacity, Ardour, Shure, Focusrite Scarlett, etc.)
 - Musical instruments (e.g. Electric guitar amplifiers, effects pedals, electric & acoustic guitars, drumkits, etc.)
@@ -105,18 +113,30 @@ meowraii has been associated with the following brands:
 - Internet Telephony (e.g. VoIP, SIP, Asterisk, etc.)
 - Outdoor warning sirens (e.g. Federal Signal, Whelen, ATI, Canadian Line Materials, B&N, etc.)
 
-### Broadcasting and Media
+</details>
+
+<details>
+<summary>Broadcasting and Media</summary>
+
 - Digital media production and distribution (e.g. YouTube, Twitch, etc.)
 - Television broadcasting and distribution (e.g. cable, satellite, over-the-air, IPTV, etc.)
 - Radio broadcasting and distribution (e.g. FM, AM, DAB, HD Radio, etc.)
 - Weather broadcasting and distribution (e.g. The Weather Network/Channel, Weatherscan, IntelliStar, WeatherStar, PMX, etc.)
 
-### Weather and Environment
+</details>
+
+<details>
+<summary>Weather and Environment</summary>
+
 - Weather data and visualization (e.g. Environment Canada, National Weather Service, etc.)
 - Weather radios (Weatheradio Canada, NOAA Weather Radio, etc.)
 - Weather, atmospheric, and environmental photography and videography (e.g. Cloud formations, storms, landscapes, sunsets & sunrises, etc.)
 
-### Software and Computing
+</details>
+
+<details>
+<summary>Software and Computing</summary>
+
 - Linux, Windows, and other operating systems (e.g. Fedora Linux, Windows 10, FreeBSD, Debian GNU/Linux, etc.)
 - High-level programming languages (e.g. Python, JavaScript, etc.)
 - Web development and frontend design (e.g. HTML, CSS, JavaScript, etc.)
@@ -126,12 +146,20 @@ meowraii has been associated with the following brands:
 - Computer peripherals (e.g. monitors, keyboards, mice, etc.)
 - Large Language Models and A.I. usage etiquette (e.g. Claude, Gemini, etc.)
 
-### Cats
+</details>
+
+<details>
+<summary>Cats</summary>
+
 - Domestic cats
 - Cat behavior and communication
 - Cat care and health
 
-### Consumer Electronics
+</details>
+
+<details>
+<summary>Consumer Electronics</summary>
+
 - Smartphones (e.g. Samsung Galaxy, Google Pixel, etc.)
 - Laptops (e.g. Dell XPS, MacBook Pro, etc.)
 - Desktop computers (e.g. custom builds, pre-built systems, etc.)
@@ -143,8 +171,16 @@ meowraii has been associated with the following brands:
 - Video equipment (e.g. camcorders, VCRs, etc.)
 - Retro media formats (e.g. VHS & Beta*, cassettes, composite video & s-video, etc.)
 
-## stance on LLMs/A.I.
+</details>
+
+</details>
+
+<details>
+<summary>stance on LLMs/A.I.</summary>
+
 &emsp;&emsp;Although meowraii views A.I. generated media as a whole in a deeply negative light, meowraii simply sees A.I. (in specific niches) as a tool that can be used to help pointing a developer in the right direction. Akin to a search engine, but with the ability to generate code snippets and explanations. meowraii is not a fan of A.I. generated media, but does not have a problem with using A.I. as a tool for learning and development. meowraii is also not a fan of A.I. generated media that is used to replace human creativity and effort, but does not have a problem with using A.I. to assist human creativity and effort in a way that does not alter true human judgement. This stance on A.I. may be a result of meowraii's early experience with neural networks and language models, before big-tech investments. meowraii is especially knowledgeable in political, and socioeconomic controversies of A.I.<br>Take this as you will.
+
+</details>
 <!--
 **meowraii/meowraii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
