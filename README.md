@@ -5,7 +5,7 @@
 Sorted by preference:
 - he/him
 - they/them
-- it/its
+- it/its (if you want i dont really go by it but i dont really care if you do)
 - she/her (jokingly/romanticly)
 - poly/com (what)
 - dinosaur/saurdino (ok dude)
